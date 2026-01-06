@@ -1,0 +1,10 @@
+ls        # list files
+cd        # change directory
+pwd       # show current directory
+mkdir     # create directory
+rm        # remove file
+cp        # copy files
+mv        # move/rename files
+cat       # show file contents
+touch     # create empty file
+chmod     # change permissions
